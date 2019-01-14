@@ -5,7 +5,7 @@ Each week's workshop will begin with a demonstration, then open up to group acti
 As well, we will (tentatively) follow [this syllabus](Syllabus.md)
 
 ## New to our workshops or need help setting up? Begin Here:
-[Installation + Environment Setup](1.16 Installation/1.16_Installation.md)
+[Installation + Environment Setup](1.16\ Installation/1.16_Installation.md)
 
 ## New to Python? 
 Our workshops are focused on Neural Network project development, and a certain level of comfortability with python is expected.  
