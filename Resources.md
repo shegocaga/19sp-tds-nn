@@ -1,4 +1,4 @@
-# Resources (Coming Soon!)
+# Resources
 
 ## Python
 - [Derek Banas](https://www.youtube.com/watch?v=N4mEzFDjqtA) YouTube Channel
@@ -9,11 +9,16 @@
 
 ## Data Science, Machine Learning, Neural Networks
 - Sentdex
+
    [Data Analysis with Python and Pandas Tutorial Introduction](https://www.youtube.com/watch?v=Iqjy9UqKKuo&list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
+
    [Practical Machine Learning Tutorial with Python Intro](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 - 3 Blue 1 Brown (3B1B) - YouTube Channel - Lectures + Beautiful animations
+
    [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
    [Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
+
    [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x)
 - [MachineLearningMastery.com](https://machinelearningmastery.com/) - A useful blog with tutorials on Keras
 - [Hands-on Machine Learning with Scikit-learn and Tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_2?ie=UTF8&qid=1547529659&sr=8-2&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow) - A book I have found useful as guide with materials in one place. As well, all code used to generate figures is maintained in the [author's repo](https://github.com/ageron/handson-ml) (Note that it was created in 2017, so some things have changed, but it still a good introduction)
