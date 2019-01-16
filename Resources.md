@@ -1,5 +1,12 @@
 # Resources
 
+## Anaconda
+- [Cheat Sheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
+
+## Git
+- [Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+- [Free Book](https://git-scm.com/book/en/v2)
+
 ## Python
 - [Derek Banas](https://www.youtube.com/watch?v=N4mEzFDjqtA) YouTube Channel
 - [Sentdex](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M) YouTube Channel (More advanced, but well worth a visit)
