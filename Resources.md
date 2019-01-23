@@ -13,6 +13,7 @@
 - [Free Book](https://git-scm.com/book/en/v2)
 
 ## Python
+- [Python Main Page](https://docs.python.org/3/tutorial/)
 - [Derek Banas](https://www.youtube.com/watch?v=N4mEzFDjqtA) YouTube Channel
 - [Sentdex](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M) YouTube Channel (More advanced, but well worth a visit)
 
