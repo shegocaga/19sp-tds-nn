@@ -1,5 +1,10 @@
 # Resources
 
+## Jupyter Notebook (Coming Soon!)
+
+## Terminal (Coming Soon!)
+
+
 ## Anaconda
 - [Cheat Sheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
 
@@ -10,6 +15,9 @@
 ## Python
 - [Derek Banas](https://www.youtube.com/watch?v=N4mEzFDjqtA) YouTube Channel
 - [Sentdex](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M) YouTube Channel (More advanced, but well worth a visit)
+
+   - [His Website](https://pythonprogramming.net/)
+
 - [Codecademy.com](https://www.codecademy.com/learn/learn-python-3) - Learning modules (free and paid tiers)
 - [Lynda.com](https://www.lynda.com/search?q=python+3) - Learning modules (free with Tulsa County Library membership)
 - [edX.org](https://www.edx.org/course?search_query=python) - Tons of online courses (free to enroll and participate, pay to earn certification)
