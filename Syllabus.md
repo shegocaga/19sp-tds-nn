@@ -3,7 +3,7 @@
 
 1/23: Intro to Git + Terminal Navigation
 
-1/30: Neural Networks Intro
+1/30: (End-of-month lecture downtown)
 
 2/6:  
 
@@ -11,7 +11,7 @@
 
 2/20:
 
-2/27: Recurrent Neural Networks
+2/27: (End-of-month lecture downtown)
 
 3/6: 
 
@@ -19,7 +19,7 @@
 
 3/20:
 
-3/27:
+3/27: (End-of-month lecture downtown)
 
 4/3:
 
