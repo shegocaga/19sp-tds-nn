@@ -1,9 +1,27 @@
 # Resources
 
-## Jupyter Notebook (Coming Soon!)
+## Previous Semester's Materials:
+- [TDS-python-nn-18-fall](https://github.com/zachandfox/TDS-python-nn-18-fall): Fall 2018 Materials
+- [Tulsa-Data-Science/Basic-tutorials](https://github.com/Tulsa-Data-Science/Basic-tutorials): Original lecture set
+- [Tulsa-Data-Science/Playground](https://github.com/Tulsa-Data-Science/Playground): Original Image-recognition project
 
-## Terminal (Coming Soon!)
+## Terminal
+- `pwd` => **P**rint **w**orking **d**irectory (<=> display current location)
+- `ls` => **L**i**s**t contents of current directory (Linux-based)
+- `dir` => **Dir**ectory (Windows equivalent of `ls`)
+- `cd <specified directory>` => **C**hange **d**irectory to <specified directory> within working directory
 
+## Jupyter Notebook
+To open jupyter notebook:
+- Open 'Terminal' (Mac/Linux) or 'Anaconda Prompt'
+- Activate your environment:
+    - `conda activate tds` (Windows)
+    - `source activate tds` (Mac/Linux)
+- Launch the Jupyter notebook: `jupyter notebook`
+- (After you save your work, and wish to close the jupyter notebook, hit `Ctrl+C`)
+- To run a cell and advance a cell: `Shift+Enter` 
+- To run a cell: `Ctrl+Enter` (Windows) or `Cmd+Enter` (Mac)
+- To see cheat-sheet of all commands: press `H`
 
 ## Anaconda
 - [Cheat Sheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
@@ -29,6 +47,9 @@
    [Data Analysis with Python and Pandas Tutorial Introduction](https://www.youtube.com/watch?v=Iqjy9UqKKuo&list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 
    [Practical Machine Learning Tutorial with Python Intro](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+
+   [Deep Learning Basics with Python, Tensorflow, and Keras](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+
 - 3 Blue 1 Brown (3B1B) - YouTube Channel - Lectures + Beautiful animations
 
    [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
