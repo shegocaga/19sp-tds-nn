@@ -40,6 +40,7 @@ To open jupyter notebook:
 - [Codecademy.com](https://www.codecademy.com/learn/learn-python-3) - Learning modules (free and paid tiers)
 - [Lynda.com](https://www.lynda.com/search?q=python+3) - Learning modules (free with Tulsa County Library membership)
 - [edX.org](https://www.edx.org/course?search_query=python) - Tons of online courses (free to enroll and participate, pay to earn certification)
+- Free eBook: [Animate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 
 ## Data Science, Machine Learning, Neural Networks
 - Sentdex
@@ -59,3 +60,10 @@ To open jupyter notebook:
    [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x)
 - [MachineLearningMastery.com](https://machinelearningmastery.com/) - A useful blog with tutorials on Keras
 - [Hands-on Machine Learning with Scikit-learn and Tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_2?ie=UTF8&qid=1547529659&sr=8-2&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow) - A book I have found useful as guide with materials in one place. As well, all code used to generate figures is maintained in the [author's repo](https://github.com/ageron/handson-ml) (Note that it was created in 2017, so some things have changed, but it still a good introduction)
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/): A free book for introduction to statistical learning (Note: written for programming in R, but the fundamental methods are valuable and likely has equivalent methods in python)
+- [Neural Network Design](http://hagan.okstate.edu/nnd.html): a free book on the design of neural networks (Note: written for use in MATLAB, but given the large Tensorflow+Keras community, there are likely equivalent pythonic methods in TF/Keras)
+
+## Book Series:
+- [Invent with Python](https://inventwithpython.com/): A free python book series
+- Book: [Making Games with Python & Pygame](https://inventwithpython.com/pygame/)
+
