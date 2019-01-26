@@ -32,15 +32,20 @@ To open jupyter notebook:
 
 ## Python
 - [Python Main Page](https://docs.python.org/3/tutorial/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/python?sort=featured&pageSize=15): A wealth of common problems, answered by a community of programming ~~nerds~~ heroes
 - [Derek Banas](https://www.youtube.com/watch?v=N4mEzFDjqtA) YouTube Channel
 - [Sentdex](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M) YouTube Channel (More advanced, but well worth a visit)
 
    - [His Website](https://pythonprogramming.net/)
 
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) YouTube channel
+- [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) YouTube Channel
+
 - [Codecademy.com](https://www.codecademy.com/learn/learn-python-3) - Learning modules (free and paid tiers)
 - [Lynda.com](https://www.lynda.com/search?q=python+3) - Learning modules (free with Tulsa County Library membership)
 - [edX.org](https://www.edx.org/course?search_query=python) - Tons of online courses (free to enroll and participate, pay to earn certification)
 - Free eBook: [Animate the Boring Stuff with Python](http://automatetheboringstuff.com/)
+- [Coding Bat](https://codingbat.com/python) Python drills and practice
 
 ## Data Science, Machine Learning, Neural Networks
 - Sentdex
@@ -67,3 +72,5 @@ To open jupyter notebook:
 - [Invent with Python](https://inventwithpython.com/): A free python book series
 - Book: [Making Games with Python & Pygame](https://inventwithpython.com/pygame/)
 
+## Program Practice / Math
+- [Project Euler](https://projecteuler.net/): Programming-based puzzles, to train your logical prowess!
