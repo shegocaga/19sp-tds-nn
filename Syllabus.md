@@ -5,9 +5,9 @@
 
 1/30: (End-of-month lecture downtown)
 
-2/6:  
+2/6: Intro to Machine Learning
 
-2/13: Image Recognition w/ Convolutional Networks
+2/13: Build a Model with Keras
 
 2/20:
 
