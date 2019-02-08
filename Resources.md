@@ -48,6 +48,7 @@ To open jupyter notebook:
 - [Coding Bat](https://codingbat.com/python) Python drills and practice
 
 ## Data Science, Machine Learning, Neural Networks
+- [Tom Mitchell's free book on Machine Learning](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf) (Carnegie Mellon - Computer Science)
 - Sentdex
 
    [Data Analysis with Python and Pandas Tutorial Introduction](https://www.youtube.com/watch?v=Iqjy9UqKKuo&list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
@@ -74,3 +75,7 @@ To open jupyter notebook:
 
 ## Program Practice / Math
 - [Project Euler](https://projecteuler.net/): Programming-based puzzles, to train your logical prowess!
+
+## (Other/Interesting/Related)
+- [Gapminder temporal dataset visualiztion tool](https://www.gapminder.org/tools/#$chart-type=bubbles)
+- [MarI/O: Gaming + Neural Nets](https://www.youtube.com/watch?v=qv6UVOQ0F44)
